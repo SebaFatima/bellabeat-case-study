@@ -26,7 +26,7 @@ To identify behavioral trends in physical activity and heart rate from Fitbit da
 ## 📎 Notebook
 
 You can view the full analysis notebook here:  
-➡️ [`bellabeat_final_analysis.ipynb`](bellabeat_final_analysis .ipynb)
+➡️ [`bellabeat_final_analysis.ipynb`]([bellabeat_final_analysis .ipynb](https://github.com/SebaFatima/bellabeat-case-study/blob/main/bellabeat_final_analysis%20.ipynb))
 
 ## ✅ Key Takeaways
 
